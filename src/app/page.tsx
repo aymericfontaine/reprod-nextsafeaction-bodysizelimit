@@ -1,6 +1,6 @@
 "use client";
 
-import { sendFile } from "./action.";
+import { sendFile } from "./action";
 
 export default function Home() {
   return (
